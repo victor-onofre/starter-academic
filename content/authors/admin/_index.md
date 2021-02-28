@@ -11,7 +11,7 @@ role: Physicist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Center of Nanoscience and Nanotechnology
-  # url: https://www.stanford.edu/
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantum biology and quantum computing
@@ -65,7 +65,7 @@ social:
    link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vonofre68@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
