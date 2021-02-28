@@ -27,11 +27,11 @@ interests:
 education:
   courses:
   - course: Master of Science - MS, Physics
-    institution: Center of Nanoscience and Nanotechnology (CNyN) of the National Autonomous University of México (UNAM)
-    year: 2018 - Expected April 2021
+    institution: Center of Nanoscience and Nanotechnology 
+    year: 2018 
   - course: Bachelor’s degree, Physics
     institution: Autonomous University of Baja California
-    year: 2012-2018
+    year: 2012
  # - course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+ # - icon: cv
+  # icon_pack: ai
+  # link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "vonofre68@gmail.com"
