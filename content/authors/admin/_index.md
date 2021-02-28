@@ -29,7 +29,8 @@ education:
   - course: Master of Science - MS, Physics
     institution: Center of Nanoscience and Nanotechnology (CNyN) of the National Autonomous University of México (UNAM)
     year: 2018 - Expected April 2021
-  - course: Bachelor’s degree, Physics: Autonomous University of Baja California
+  - course: Bachelor’s degree, Physics
+    institution: Autonomous University of Baja California
     year: 2012-2018
  # - course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
