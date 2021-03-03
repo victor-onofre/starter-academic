@@ -75,4 +75,4 @@ I’m currently waiting for the final revisions of my thesis for my master’s d
 I worked with concepts of quantum information and simulations of open quantum systems in Python. I’m interested in
 applying quantum algorithms to solve real-world problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
