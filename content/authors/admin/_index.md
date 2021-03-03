@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://github.com/victor-onofre/starter-academic/blob/master/static/media/CV_Victor_Onofre.pdf
+    link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "vonofre68@gmail.com"
