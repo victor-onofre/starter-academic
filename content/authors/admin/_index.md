@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/media/resume.pdf
+    link: static/media/CV_Victor_Onofre.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "vonofre68@gmail.com"
@@ -75,4 +75,4 @@ I’m currently waiting for the final revisions of my thesis for my master’s d
 I worked with concepts of quantum information and simulations of open quantum systems in Python. I’m interested in
 applying quantum algorithms to solve real-world problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Victor_Onofre.pdf" "newtab" >}}resumé{{< /staticref >}}.
