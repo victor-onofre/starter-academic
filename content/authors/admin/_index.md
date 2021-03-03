@@ -11,7 +11,7 @@ role: Physicist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Center of Nanoscience and Nanotechnology
-  url: https://www.stanford.edu/
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantum biology and quantum computing
