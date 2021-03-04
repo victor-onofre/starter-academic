@@ -41,8 +41,9 @@ experience:
     date_start: '2021-01-27'
     date_end: ''
     description: |2-
-    
-           * We worked on solving the Knapsack problem with gate-based game running on IonQ hardware and annealing-based Discrete Quadratic Model (DQM) 
-             method running on D-Wave hardware. 
+        Responsibilities include:
+        
+        * Coordinate part of the organization of work teams with members from Peru, Ecuador,Paraguay, Colombia and Mexico.
+        * Create content to inform, educate, and raise awareness of quantum computing.
     
 ---
