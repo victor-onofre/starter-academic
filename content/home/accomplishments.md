@@ -26,8 +26,10 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/WANKVTDUMF2G
   date_end: ""
   date_start: "2020-04-10"
-  description: >-In 9 courses, I applied Data Science methodology - Worked with Jupyter notebooks - Accessed relational databases using SQL and Python - Used   >- 
-  Python libraries to generate data visualizations -Performed data analysis using Pandas - Constructed and evaluated Machine Learning (ML) models using Scikit >-                           >-learn and  SciPy and applied data science and ML techniques to real location data sets. >- 
+  description: > 
+  In 9 courses, I applied Data Science methodology - Worked with Jupyter notebooks - Accessed relational databases using SQL and Python - Used     
+  Python libraries to generate data visualizations -Performed data analysis using Pandas - Constructed and evaluated Machine Learning (ML) models using 
+  Scikit learn and  SciPy and applied data science and ML techniques to real location data sets.  
   organization: Coursera
   organization_url: https://www.coursera.org
   title: IBM Data Science Specialization
