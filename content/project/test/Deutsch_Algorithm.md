@@ -201,7 +201,8 @@ qc.draw(output='mpl', style=style)
 
 
 
-![png](output_47_0.png)
+
+{{< figure src="output_47_0.png" caption="![png](output_47_0.png)" >}}
 
 
 
