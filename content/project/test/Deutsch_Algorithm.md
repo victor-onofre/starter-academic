@@ -65,8 +65,8 @@ qc.draw(output='mpl', style=style)
 
 
 
+{{< figure src="output_16_0.png" caption="![png](output_16_0.png))" >}}
 
-![png](output_16_0.png)
 
 
 
@@ -85,9 +85,7 @@ qc.draw(output='mpl', style=style)
 ```
 
 
-
-
-![png](output_20_0.png)
+{{< figure src="output_20_0.png" caption="![png](output_20_0.png))" >}}
 
 
 
@@ -182,9 +180,8 @@ qc.draw(output='mpl', style=style)
 ```
 
 
+{{< figure src="output_44_0.png" caption="![png](output_44_0.png)" >}}
 
-
-![png](output_44_0.png)
 
 
 
@@ -197,11 +194,6 @@ $$  \vert \psi_{2} \rangle_{AB}  = CNOT \vert \psi_{1} \rangle_{AB} =  \frac{1}{
 qc.h(0)
 qc.draw(output='mpl', style=style) 
 ```
-
-
-
-
-
 {{< figure src="output_47_0.png" caption="![png](output_47_0.png)" >}}
 
 
@@ -216,10 +208,8 @@ qc.measure(qreg1[0],register1)
 qc.draw(output='mpl', style=style) 
 ```
 
+{{< figure src="output_50_0.png" caption="![png](output_50_0.png))" >}}
 
-
-
-![png](output_50_0.png)
 
 
 
@@ -234,9 +224,8 @@ plot_histogram(answer)
 ```
 
 
+{{< figure src="output_52_0.png" caption="![png](output_52_0.png)))" >}}
 
-
-![png](output_52_0.png)
 
 
 
@@ -325,9 +314,9 @@ resultBalanced1.draw(output='mpl', style=style)
 ```
 
 
+{{< figure src="output_66_0.png" caption="![png](output_66_0.png)))" >}}
 
 
-![png](output_66_0.png)
 
 
 
@@ -341,8 +330,8 @@ plot_histogram(answerB1)
 
 
 
+{{< figure src="output_67_0.png" caption="![png](output_67_0.png))" >}}
 
-![png](output_67_0.png)
 
 
 
@@ -356,8 +345,9 @@ resultBalanced2.draw(output='mpl', style=style)
 
 
 
+{{< figure src="output_69_0.png" caption="![png](output_69_0.png))" >}}
 
-![png](output_69_0.png)
+
 
 
 
@@ -370,9 +360,8 @@ plot_histogram(answerB2)
 ```
 
 
+{{< figure src="output_70_0.png" caption="![png](output_70_0.png))" >}}
 
-
-![png](output_70_0.png)
 
 
 
@@ -384,10 +373,7 @@ resultConstant1 = deutsch(oracleConstant1)
 resultConstant1.draw(output='mpl', style=style) 
 ```
 
-
-
-
-![png](output_72_0.png)
+{{< figure src="output_72_0.png" caption="![png](output_72_0.png))" >}}
 
 
 
@@ -401,8 +387,8 @@ plot_histogram(answerC1)
 
 
 
+{{< figure src="output_73_0.png" caption="![png](output_73_0.png))" >}}
 
-![png](output_73_0.png)
 
 
 
@@ -415,9 +401,8 @@ resultConstant2.draw(output='mpl', style=style)
 ```
 
 
+{{< figure src="output_75_0.png" caption="![png](output_75_0.png))" >}}
 
-
-![png](output_75_0.png)
 
 
 
@@ -431,8 +416,9 @@ plot_histogram(answerC2)
 
 
 
+{{< figure src="output_76_0.png" caption="![png](output_76_0.png))" >}}
 
-![png](output_76_0.png)
+
 
 
 
