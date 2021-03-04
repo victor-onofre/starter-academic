@@ -34,16 +34,17 @@ experience:
         * Coordinate part of the organization of work teams with members from Peru, Ecuador,Paraguay, Colombia and Mexico.
         * Create content to inform, educate, and raise awareness of quantum computing.
         
-  - title: iQuHACK (interdisciplinary Quantum HACKathon) 2021  | Team won in the hybrid division M
+  - title: iQuHACK (interdisciplinary Quantum HACKathon) 2021  | Team won in the hybrid division 
     company: MIT's second annual quantum hackathon.
     company_url: https://www.iquise.mit.edu/iQuHACK/
     location: Online
     date_start: '2021-01-27'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Coordinate part of the organization of work teams with members from Peru, Ecuador,Paraguay, Colombia and Mexico.
-        * Create content to inform, educate, and raise awareness of quantum computing.
+        
+        * We worked on solving the Knapsack problem with gate-based game running on IonQ hardware and annealing-based Discrete Quadratic Model (DQM) method 
+          running on D-Wave hardware.
+        
     
 ---
