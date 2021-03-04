@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: The Deutsch Algorithm 
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Quantum Computing
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
