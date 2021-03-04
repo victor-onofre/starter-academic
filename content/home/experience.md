@@ -22,24 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Co-Founder of Quantum Hispano | Coordinator of the scientific outreach team
+    company: Quantum Hispano
+    company_url: https://quantumhispano.org/
+    location: E-Learning
+    date_start: '2020-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Coordinate part of the organization of work teams with members from Peru, Ecuador,Paraguay, Colombia and Mexico.
+        * Create content to inform, educate, and raise awareness of quantum computing.
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: iQuHACK (interdisciplinary Quantum HACKathon) 2021  | Team won in the hybrid division M
+    company: MIT's second annual quantum hackathon.
+    company_url: https://www.iquise.mit.edu/iQuHACK/
+    location: Online
+    date_start: '2021-01-27'
+    date_end: ''
+    description: |2-
+               * We worked on solving the Knapsack problem with gate-based game running on IonQ hardware and annealing-based Discrete Quadratic Model (DQM) 
+               * method running on D-Wave hardware. Link to the project: https://github.com/iQuHACK/2021_Hybrid-Daemons}{\github{iQuHACK/2021_Hybrid-Daemons 
+    
 ---
