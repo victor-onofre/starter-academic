@@ -33,7 +33,7 @@ item:
             * Used Python libraries to generate data visualizations 
             * Performed data analysis using Pandas 
             * Constructed and evaluated Machine Learning (ML) models using Scikit learn and  
-              SciPy and applied data science and ML techniques to real location data sets.  
+              SciPy and applied data science and ML techniques to real location data sets  
   organization: Coursera
   organization_url: https://www.coursera.org
   title: IBM Data Science Specialization
@@ -41,17 +41,24 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/562XFPRHV6G9
   date_end: ""
   date_start: "2020-07-10"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: |
+            * In 6 courses, I applied Machine Learning (ML) techniques such as regression, classification, clustering, and recommender systems and became able 
+              to scale ML on Big Data using Apache Spark 
+            * Learned to build, test and deploy Deep Learning models using libraries such as Keras, PyTorch, and Tensorflow 
+            * Finished several ML and Deep Learning projects
   organization: Coursera
   organization_url: https://www.coursera.org
   title: IBM AI Engineering Specialization
   url: https://www.coursera.org/professional-certificates/ai-engineer
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/YDNDAZRXKSBS
+  date_end: ""
+  date_start: "2020-07-10"
+  description: | 
+            * Builded and employed a logistic regression classifier using Scikit-Learn 
+            * Performed feature extraction with The Natural Language Toolkit (NLTK) 
+            *  Tuned model hyperparameters and evaluated model accuracy
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Perform Sentiment Analysis with Scikit-Learn'
+  url: https://www.coursera.org/projects/scikit-learn-logistic-regression-sentiment-analysis
 ---
