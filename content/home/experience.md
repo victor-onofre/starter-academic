@@ -43,6 +43,6 @@ experience:
     description: |2-
     
            * We worked on solving the Knapsack problem with gate-based game running on IonQ hardware and annealing-based Discrete Quadratic Model (DQM) 
-             method running on D-Wave hardware. Link to the project: https://github.com/iQuHACK/2021_Hybrid-Daemons}{\github{iQuHACK/2021_Hybrid-Daemons 
+             method running on D-Wave hardware. Link to the project: https://github.com/iQuHACK/2021_Hybrid-Daemons
     
 ---
