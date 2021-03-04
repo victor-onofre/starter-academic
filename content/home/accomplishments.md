@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/WANKVTDUMF2G
   date_end: ""
   date_start: "2020-04-10"
-  description: > 
+  description: |
             * In 9 courses, I applied Data Science methodology 
             * Worked with Jupyter notebooks 
             * Accessed relational databases using SQL and Python 
@@ -38,14 +38,14 @@ item:
   organization_url: https://www.coursera.org
   title: IBM Data Science Specialization
   url: https://www.coursera.org/professional-certificates/ibm-data-science
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/562XFPRHV6G9
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2020-07-10"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: IBM AI Engineering Specialization
+  url: https://www.coursera.org/professional-certificates/ai-engineer
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
