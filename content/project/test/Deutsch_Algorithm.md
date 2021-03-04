@@ -116,11 +116,13 @@ $$ =  \frac{1}{2} \vert 0 \rangle*{A} \Big(   \vert 0 \rangle*{B} -  \vert 1 \ra
 
 Applying the $U_{f}$ oracle, we have the state:
 
-$$ \vert \psi*{2} \rangle*{AB}  = U*{f} \vert \psi*{1} \rangle*{AB}  =  \frac{1}{2} \vert 0 \rangle*{A}  \Big(  \vert 0 \oplus f(0) \rangle*{B} -  \vert 1 \oplus f(0) \rangle*{B} \Big)  +  \frac{1}{2} \vert 1 \rangle*{A}  \Big( \vert 0 \oplus f(1)\rangle*{B} -  \vert 1 \oplus f(1)  \rangle_{B} \Big)  $$
+$$ \vert \psi*{2} \rangle*{AB}  = U*{f} \vert \psi*{1} \rangle*{AB}  = $$
+$$ = \frac{1}{2} \vert 0 \rangle*{A}  \Big(  \vert 0 \oplus f(0) \rangle*{B} -  \vert 1 \oplus f(0) \rangle*{B} \Big)  +  \frac{1}{2} \vert 1 \rangle*{A}  \Big( \vert 0 \oplus f(1)\rangle*{B} -  \vert 1 \oplus f(1)  \rangle_{B} \Big)  $$
 
 Using $ \vert 0 \oplus a \rangle -  \vert 1 \oplus a \rangle = (-1)^{a} (\vert  0 \rangle - \vert 1 \rangle ) $
 
-$$  \vert \psi*{2}\rangle*{AB}  =  \frac{1}{2} (-1)^{f(0)} \vert 0 \rangle*{A}  \Big( \vert 0 \rangle*{B} - \vert 1 \rangle*{B} \Big)  +  \frac{1}{2} (-1)^{f(1)} \vert 1 \rangle*{A} \Big( \vert 0 \rangle*{B} -  \vert 1 \rangle*{B} \Big)  =  \Big( \frac{1}{\sqrt{2}} (-1)^{f(0)} \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} (-1)^{f(1)} \vert 1 \rangle*{A}  \Big)  \Big( \frac{1}{\sqrt{2}} \vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  $$
+$$  \vert \psi*{2}\rangle*{AB}  =  \frac{1}{2} (-1)^{f(0)} \vert 0 \rangle*{A}  \Big( \vert 0 \rangle*{B} - \vert 1 \rangle*{B} \Big)  +  \frac{1}{2} (-1)^{f(1)} \vert 1 \rangle*{A} \Big( \vert 0 \rangle*{B} -  \vert 1 \rangle*{B} \Big) =  $$ 
+$$ =  \Big( \frac{1}{\sqrt{2}} (-1)^{f(0)} \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} (-1)^{f(1)} \vert 1 \rangle*{A}  \Big)  \Big( \frac{1}{\sqrt{2}} \vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  $$
 
 $$  =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} (-1)^{f(0) \oplus f(1)} \vert 1 \rangle*{A}  \Big)  \Big( \frac{1}{\sqrt{2}} \vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  $$
 
@@ -128,13 +130,15 @@ $$  =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  \vert 0 \rangle*{A}  +   \frac{1}{\
 
 If $U_{f}$ is constant $f(0) \oplus f(1) = 0$ then
 
-$$ \vert \psi*{2} \rangle*{AB}  =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} (-1)^{0} \vert 1 \rangle*{A}  \Big) \Big( \frac{1}{\sqrt{2}}\vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} \vert 1 \rangle*{A}  \Big) \Big( \frac{1}{\sqrt{2}}\vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  $$
+$$ \vert \psi*{2} \rangle*{AB}  =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} (-1)^{0} \vert 1 \rangle*{A}  \Big) \Big( \frac{1}{\sqrt{2}}\vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  = $$
+$$ =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} \vert 1 \rangle*{A}  \Big) \Big( \frac{1}{\sqrt{2}}\vert 0 \rangle*{B} - \frac{1}{\sqrt{2}}\vert 1 \rangle*{B} \Big)  $$
 
 Applying the Hadamard gate to the first ($A$) qubit 
 
 $$  \vert \psi*{3} \rangle*{AB} =  (-1)^{f(0)} \Big( \frac{1}{\sqrt{2}}  H \vert 0 \rangle*{A}  +   \frac{1}{\sqrt{2}} H \vert 1 \rangle*{A}  \Big) \Big( \frac{1}{\sqrt{2}} \vert 0 \rangle*{B} - \frac{1}{\sqrt{2}} \vert 1 \rangle*{B} \Big)  $$
 
-$$  =  (-1)^{f(0)} \Big[ \frac{1}{\sqrt{2}} \Big(  \frac{1}{\sqrt{2}} \vert 0 \rangle*{A} + \frac{1}{\sqrt{2}}\vert 1 \rangle*{A} \Big)  +   \frac{1}{\sqrt{2}} \Big( \frac{1}{\sqrt{2}} \vert 0\rangle*{A} - \frac{1}{\sqrt{2}} \vert 1\rangle*{A} \Big)  \Big] \Big( \frac{1}{\sqrt{2}}\vert 0 \rangle*{B} - \frac{1}{\sqrt{2}} \vert 1 \rangle*{B} \Big)  $$
+$$  =  (-1)^{f(0)} \Big[ \frac{1}{\sqrt{2}} \Big(  \frac{1}{\sqrt{2}} \vert 0 \rangle*{A} + \frac{1}{\sqrt{2}}\vert 1 \rangle*{A} \Big)  + .. $$ 
+$$ \frac{1}{\sqrt{2}} \Big( \frac{1}{\sqrt{2}} \vert 0\rangle*{A} - \frac{1}{\sqrt{2}} \vert 1\rangle*{A} \Big)  \Big] \Big( \frac{1}{\sqrt{2}}\vert 0 \rangle*{B} - \frac{1}{\sqrt{2}} \vert 1 \rangle*{B} \Big)  $$
 
 $$  =  (-1)^{f(0)} \Big[  \Big(  \frac{1}{2} \vert  0 \rangle*{A} + \frac{1}{2} \vert 1 \rangle*{A} \Big)  +  \Big( \frac{1}{2} \vert  0 \rangle*{A} - \frac{1}{2} \vert  1 \rangle*{A} \Big)  \Big] \Big( \frac{1}{\sqrt{2}} \vert  0 \rangle*{B} - \frac{1}{\sqrt{2}} \vert  1 \rangle*{B} \Big)  $$
 
