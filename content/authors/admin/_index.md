@@ -71,8 +71,6 @@ email: "vonofre68@gmail.com"
 highlight_name: false
 ---
 
-I’m currently waiting for the final revisions of my thesis for my master’s degree in physics in the area of Quantum Biology.
-I worked with concepts of quantum information and simulations of open quantum systems in Python. I’m interested in
-applying quantum algorithms to solve real-world problems.
+During my master's in physics, I worked on numerical simulations of the dynamics of open quantum systems in Python and with discord-type quantum correlations. I have done multiple projects on quantum algorithms, participated in quantum hackathons, and attended conferences on quantum information. Also, I have contributed to quantum open-source and outreach projects. I'm interested in the applications of quantum computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Victor_Onofre.pdf" "newtab" >}}resumé{{< /staticref >}}.
