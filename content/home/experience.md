@@ -22,17 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Co-Founder of Quantum Hispano | Coordinator of the scientific outreach team
-    company: Quantum Hispano
-    company_url: https://quantumhispano.org/
-    location: E-Learning
-    date_start: '2020-08-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Coordinate part of the organization of work teams with members from Peru, Ecuador,Paraguay, Colombia and Mexico.
-        * Create content to inform, educate, and raise awareness of quantum computing.
         
   - title: iQuHACK (interdisciplinary Quantum HACKathon) 2021  | Team won in the hybrid division 
     company: MIT's second annual quantum hackathon.
