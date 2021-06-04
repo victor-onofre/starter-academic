@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: The Physical Implementation of Quantum Computation by David P. DiVincenzo
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Presentation of the Journal Club of Quantum Universal Education
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -38,11 +38,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/VicOnofre1
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=AVDIXNLGCDk"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
